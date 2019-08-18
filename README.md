@@ -1,4 +1,4 @@
 # Initial page
 
-This is a testing text
+A playground for Jimmy to test all kind of stuffs
 
