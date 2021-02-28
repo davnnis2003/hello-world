@@ -1,4 +1,10 @@
 # test config below
-- name: object_1
-  string: 'text_here'
-  list: [item_1, item_2, item_3]
+#- name: object_1
+#  string: 'text_here'
+#  list: [item_1, item_2, item_3]
+
+apples: 20
+mangoes: 2
+bananas: 3
+grapes: 100
+pineapples: 1
